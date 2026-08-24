@@ -1,0 +1,21 @@
+"""
+I'm not a noob in Python.
+I completed Replit's 100 DAYS OF PYTHON course back in 2023.
+I've solved basic DSA problems in Python, without knowing the patterns, or much of DSA stuff.
+
+I'm starting the journey to getting a job ASAP.
+So, I'm doing this challenge, starting with Python fundamentals, and some more.
+
+I've liked this book, concise, and yet informative, so many problems, exercises, PEP8 style guidelines, and much more.
+Plus, the desclaimers/remarks from the author- really good!!
+"""
+
+In Python you can- lang basics, array, str, lists, tuples, sets, dictionaries, the different methods
+In Python you can- arguments, parameters, positional/keypair/default arguments.
+In Python you can- classes, objects, instances, inheritance, composition of classes.
+In Python you can modules, using functions & classes for modules, different ways of importing them.
+
+In Python you can- do file handling of different files.
+In Python you can- handle file handling methods, exceptions, testing etc by tonight hopefully.
+
+It's the 5th day of reading, and doing the exercises, etc from this book, no internet, and yup, its stressful, full of deadlines, but it's peaceful.

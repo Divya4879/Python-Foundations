@@ -1,0 +1,3 @@
+I love programming.
+I adore Python language, doing by DSA in it, as well as FastAPI later on.
+I am in love with building & shipping products, and winning hackathons!!
